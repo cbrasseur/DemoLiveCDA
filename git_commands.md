@@ -8,7 +8,9 @@
 ```git add .``` Ajoute tous les fichiers
 ```git add -p``` Ouvre les modifications une à une et propose de les ajouter ou non
 - Créer un commit (une nouvelle version de notre code)
-```git commit -m "{EmojiCommit} {MessageCommit}``` Pour ouvrir l'interface avec les émojis sur windows, faire windows + ; 
+```git commit -m "{EmojiCommit} {MessageCommit}``` Pour ouvrir l'interface avec les émojis sur windows, faire windows + ;
+- Envoyer les sources sur le répo distant
+```git push origin main```
 - Afficher les logs (différents commits du repo)
 ```git lg``` (Commande en alias à prendre dans la partie ci-dessous)
 
